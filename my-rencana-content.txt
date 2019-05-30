@@ -6,6 +6,7 @@ RENCANA KONTEN KOE
     ^ Angular
     ^ Vue
     ^ React
+    ^ JQuery
   * Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
